@@ -1,0 +1,7 @@
+package mentee_ilya_ustinov;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
