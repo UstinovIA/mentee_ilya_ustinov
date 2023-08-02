@@ -8,8 +8,5 @@ public class I {
         if(num >= 1 && num <= 5) {
             System.out.println(num);
         }
-        else {
-            return;
-        }
     }
 }
